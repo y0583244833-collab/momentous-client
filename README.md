@@ -1,5 +1,21 @@
 # Momentous – לקוח React
 
+
+
+פרטי מנהל לבדיקה למורה
+
+שדה
+
+ערך
+
+אימייל
+
+admin@momentous.app
+
+סיסמה
+
+momentous44833
+
 ## הפעלה
 
 ```bash
